@@ -1,0 +1,6 @@
+user=`{
+	"_id": 2,
+	"name": "Ramesh",
+	"email": "ramesh@hero.com",
+	"password": "abcd"
+}`

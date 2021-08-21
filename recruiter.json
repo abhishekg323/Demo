@@ -1,0 +1,23 @@
+recruiter = `{
+	"_id": 1,
+	"c_name": "Apple2",
+	"c_email": "manager@apple2.com",
+	"password": "abcd",
+	"jobs": [{
+		"_id": "job id",
+		"job_type": "web",
+		"designation": "manager",
+		"description": "tu yaha join karke khub kamayega, gaaliya",
+		"place": "konsi city m kaam h",
+		"min_sal": 200,
+		"max_sal": 2000,
+		"requirement": {
+			"exp_years": 10,
+			"qualification": "BCA"
+		}
+	}],
+	"applicants":[{
+		"user_id": "123",
+		"job_id" : "456"
+	}]
+}`
